@@ -1,0 +1,10 @@
+
+   Speedtest by Ookla
+
+     Server: Pivit - Brisbane (id = 21417)
+        ISP: Aussie Broadband
+    Latency:    10.21 ms   (0.22 ms jitter)
+   Download:    44.35 Mbps (data used: 35.4 MB)                               
+     Upload:    10.71 Mbps (data used: 18.8 MB)                               
+Packet Loss:     0.0%
+ Result URL: https://www.speedtest.net/result/c/2054c098-220d-4159-a950-2c2d27ddd561

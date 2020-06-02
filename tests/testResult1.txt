@@ -1,0 +1,10 @@
+
+   Speedtest by Ookla
+
+     Server: Superloop - Brisbane (id = 22841)
+        ISP: Aussie Broadband
+    Latency:    10.38 ms   (0.47 ms jitter)
+   Download:    44.16 Mbps (data used: 21.5 MB)                               
+     Upload:    10.39 Mbps (data used: 16.9 MB)                               
+Packet Loss:     0.0%
+ Result URL: https://www.speedtest.net/result/c/abc932d9-0c48-4e6f-8c39-117a7ead65a5
